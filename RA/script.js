@@ -42,7 +42,7 @@ var models = [
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
     {
-        url: './assets/yoda/scene.gtlf',
+        url: './assets/yoda/scene.gltf',
         scale: '0.5 0.5 0.5',
         info: 'YodaBB, Lv. 100, HP 10/10',
         rotation: '0 180 0',
